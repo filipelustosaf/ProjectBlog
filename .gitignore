@@ -1,0 +1,21 @@
+# ====== .NET ======
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+
+# ====== Node / React ======
+node_modules/
+dist/
+.env
+.env.local
+
+# ====== Logs ======
+*.log
+
+# ====== OS ======
+.DS_Store
+Thumbs.db
