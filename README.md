@@ -23,7 +23,7 @@ Make sure you have the following installed:
 ## Project Structure
 
 ```
-ProjetoBlogApi/
+ProjectBlog/
 │
 ├─ Blog.Api/        # Backend (.NET 6 API)
 ├─ Blog.Web/        # Frontend (React + Vite)
@@ -55,20 +55,6 @@ docker compose up -d
 ## 2. Configure appsettings
 
 In `Blog.Api/appsettings.Development.json` (or `appsettings.json`):
-
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Host=localhost;Port=5432;Database=blogdb;Username=postgres;Password=postgres"
-  },
-  "Jwt": {
-    "Key": "CHANGE_THIS_TO_A_STRONG_KEY_32+_CHARS",
-    "Issuer": "Blog.Api",
-    "Audience": "Blog.Api",
-    "ExpiresMinutes": "60"
-  }
-}
-```
 
 ---
 
