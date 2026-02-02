@@ -132,14 +132,14 @@ Frontend:
 ## Screenshots
 
 ### Login
-![Login screen](images/login.png)
+![Login screen](Images/login.png)
 
 ### Register
-![Register screen](images/register.png)
+![Register screen](Images/register.png)
 
 ### Posts
-![Posts screen](images/posts.png)
+![Posts screen](Images/posts.png)
 
 ### Users (Admin)
-![Users screen](images/users.png)
+![Users screen](Images/users.png)
 
