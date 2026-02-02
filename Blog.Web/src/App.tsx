@@ -18,7 +18,6 @@ export default function App() {
           <nav className="nav">
             <div className="brand">
               <span>Blog</span>
-              <span className="badge">Fullstack</span>
             </div>
 
             {logged && (

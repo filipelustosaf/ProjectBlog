@@ -129,3 +129,17 @@ Frontend:
 
 ---
 
+## Screenshots
+
+### Login
+![Login screen](docs/images/login.png)
+
+### Register
+![Register screen](docs/images/register.png)
+
+### Posts
+![Posts screen](docs/images/posts.png)
+
+### Users (Admin)
+![Users screen](docs/images/users.png)
+
